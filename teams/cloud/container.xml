@@ -248,6 +248,7 @@
 		<package name="nss-mdns"/>
 		<package name="openssh-clients"/>
 		<package name="openssl"/>
+		<package name="p11-kit-server"/>
 		<package name="pam"/>
 		<package name="pigz"/>
 		<package name="policycoreutils"/>
